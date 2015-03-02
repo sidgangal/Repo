@@ -1,3 +1,17 @@
+# Comments from Mark A. Yoder
+
+5	Analog In
+5	Analog Out
+5	Combine In and Out
+0	jsfiddle Local       - Don't see your html for this
+0	Add a button (bonus)
+3	ReadMe.txt - More details, please
+-5  Late
+
+Grade:  13/25
+
+========================================
+
 # Beaglebone
 CS404
 To : Mark A Yoder
