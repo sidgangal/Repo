@@ -1,3 +1,17 @@
+# Comments by Mark A. Yoder
+
+5 Ran matrixLEDi2c.js
+5 Something extra 
+5 Respond to switch
+4 ReadMe.txt    - Please list each file you want me to look at and note what each does.
+5 Not late
+
+Be careful, when you added your name at the beginning of the files you broke the code.
+
+Grade: 24/25
+
+=======================================
+
 # Beaglebone
 CS404
 To : Mark A Yoder

@@ -1,9 +1,3 @@
-/*
- Program- LED Matrix Demonstration
- Author- Siddharth Gangal
-
-*/
-
 #!/usr/bin/env node
 
 var b=require ('bonescript');
