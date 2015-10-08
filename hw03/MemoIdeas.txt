@@ -1,0 +1,20 @@
+To: Mark A. Yoder, Professor, IIT Mandi
+From: Siddharth Gangal, 3rd year EE, B.Tech, IIT Mandi
+Date: October 05, 2015
+Subject: Ideas for Embedded Systems’ project
+Team: Siddharth Gangal
+
+1. Face detecting and following robot:
+The robot will detect a human face through the help of a mini-camera connected with bea-
+gleboard and then beagleboard will drive the actuators(here wheels of the robot) to follow
+the person. The bot can be made to follow specific person/people if camera quality and face
+detection is good. (Similar project can be seen at youtube)
+
+2. Smart Home Door Opening System
+A Webcam mounted atop a door will take a photo when a person comes in its proximity and send a photo 
+to a phone. The owner can now choose to open the door.
+
+3. Monitoring natural processes around the campus:
+This can include monitoring daily solar insolation, wind speed, weather(temperature, rain-
+fall etc.). The data will be collected by beaglboard through various sensors.
+
