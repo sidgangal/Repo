@@ -30,6 +30,7 @@ if(x.value == 1){
  }
 
 }
+
 function checkButton2(x) {
 
 if(x.value == 1){
@@ -40,6 +41,7 @@ if(x.value == 1){
  b.digitalWrite('P9_14', b.LOW);
  }
 }
+
 function checkButton3(x) {
 
 if(x.value == 1){
