@@ -1,3 +1,17 @@
+# Comments from Mark A. Yoder
+
+5   hello2.c
+4   Makefile - Needed to comment out initial block
+0   Text from /var/log/kern.log
+5   ReadMe.txt
+5   Not Late
+
+Grade 19/25
+
+fiddelibility?
+
+------------------------------------------------
+
 # Beaglebone
 CS404
 To : Mark A Yoder
