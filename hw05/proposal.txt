@@ -1,0 +1,19 @@
+Smart Room
+CS404 Project Proposal
+
+By - Mohit Sharma - B12006,
+        Ankur Sardaar - B13108,
+        Pushpendra Meena - B13132,
+        Siddharth Gangal - B13232.
+
+Date - 29-Sept-2015
+Executive Summary
+The goal of this project is to build a smart room that captures the happenings in and out the room and performs certain assigned functions accordingly. The first in the list is an automatic door lock system for the room. For this one there will be a camera overlooking the door. Whenever someone approaches and is in the pre-required range of the camera, it will click a photo and send it to the concerned owner who then can approve and then the door would automatically unlock. Second one covers the fact that if the door is left open for more than an assigned period, a message will be forwarded to the owner regarding the same. Third point of implementation will include a temperature sensor inside the room, that will monitor and control the speed of the fan accordingly according to the pre-entered values. And last one will be the smart light monitoring system. Whenever someone enters the room, lights and fan will turn ON by themselves and will be turned OFF, when the person leaves the room. Initially we are planning to do this for only one person entering the room (not multiple). We hope to achieve all these qualities and functionalities of the proposed Smart Room in the given time frame.
+CURRENT STATUS
+Started Working on this project.
+Team Structure
+We are a team of four students and each one of us would look after one of the functionalities helping others in the course of time obviously. This is yet to be divided and will be notified soon.
+Equipment needed
+The two basic needs for the project are sensors to gather data and microcomputers to take that data and send it to a central server. We already have BeagleBones that can both gather data and be a server.  Also sensors ranging from temperature should be acquired and tested. We need a camera, 2 IR sensors, temperature sensor, 3 relay circuits, DC motors, dç power source, solenoid valve, and various cheaper miscellaneous items to build a demonstration.
+
+
