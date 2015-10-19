@@ -1,3 +1,18 @@
+# Comments from Mark A. Yoder
+
+5 blinkled.js
+5 input.js
+0 some variation
+4 ReadMe.txt - needs more details
+5 Not late
+
+Grade:  19/25
+
+Please comment your code and in your memo tell what each file you want graded
+is to do.
+
+========================================
+
 # Beaglebone
 CS404
 To : Mark A Yoder
