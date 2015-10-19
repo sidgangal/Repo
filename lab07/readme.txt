@@ -8,3 +8,6 @@ Roll No.: B13232
 
 Acceleration, temperature were calculated in two separate programs here.
 Movement, balance and ambience temperature uses will be plentiful.
+
+gyro.js- acceleration
+gyro2.js- temperature

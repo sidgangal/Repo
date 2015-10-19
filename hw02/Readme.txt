@@ -1,14 +1,5 @@
-# Comments from Mark A. Yoder
+// Name: siddharth Gangal
+// Roll no. : B13232
+// 04 Oct, 2015
 
-0  4 buttons and LEDs
-0  Etch-a-sketch
-0   Combine buttons and Etch-a-sketch
-0   Extras
-0   ReadMe.txt
--5  Late
-
-Grade 0/25
-
-No ReadMe, no code
-
-------------------------------------------------
+-- 4 button code, etchasketch , etchasketchwithbutton, readme.txt

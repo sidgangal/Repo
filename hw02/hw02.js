@@ -1,3 +1,5 @@
+//four led and button
+
 var b = require('bonescript');
 
 var outputs = ["USR0", "USR1", "USR2", "USR3", "P9_11", "P9_13", "P9_15", "P9_17", "P9_23"];
